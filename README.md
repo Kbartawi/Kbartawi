@@ -6,8 +6,8 @@ I build AI software for customer operations and video production. Based in Dubai
 
 <a href="https://kbartawi.github.io/#projects">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kbartawi.github.io/media/portfolio-dark.webp?v=20260917-founder">
-  <img alt="Khaled’s product portfolio: AI customer operations, video production and a Dubai game in preproduction. Product demos, development stages and validation milestones." src="https://kbartawi.github.io/media/portfolio-light.webp?v=20260917-founder">
+  <source media="(prefers-color-scheme: dark)" srcset="https://kbartawi.github.io/media/portfolio-dark.webp?v=20260917-complete">
+  <img alt="Khaled’s product portfolio: AI customer operations, video production and a Dubai game in preproduction. Product demos, development stages and validation milestones." src="https://kbartawi.github.io/media/portfolio-light.webp?v=20260917-complete">
 </picture>
 </a>
 
