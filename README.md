@@ -22,6 +22,8 @@ Pilot and founder based in Dubai. Building useful software for business teams, c
 
 I bring a builder’s curiosity and a pilot’s discipline: clear systems, careful checks and attention to the details that make something usable.
 
-Every project page includes its audience, workflow, technical and commercial readiness, and the next milestone. Demo access, a prototype and a customer-ready product are different stages; the portfolio makes those distinctions visible.
+Every project page includes an image gallery, its audience, workflow, technical and commercial readiness, and the next milestone. Demo access, a prototype and a customer-ready product are different stages; the portfolio makes those distinctions visible.
 
-Updated 17 September 2026. Product samples use fictional data. Dubai Game imagery is visual development, not gameplay. Frame’s studio illustration is a concept, not proof of a completed production.
+Take a closer look: [Frame’s cinematic gallery — 7 shots](https://kbartawi.github.io/projects/frame/#gallery) · [Dubai Game’s world studies — 8 scenes](https://kbartawi.github.io/projects/dubai-game/#gallery). The four business projects also include product, demo or website screenshots.
+
+Updated 17 September 2026. Product samples use fictional data. Dubai Game imagery is visual development, not gameplay. Frame’s studio illustration and film stills are concepts, not proof of a completed production.
