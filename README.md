@@ -24,6 +24,8 @@ My product work focuses on specific workflows: customer support, equipment quota
 
 Each project page includes its intended users and buyers, product screenshots, technical and commercial readiness, and the evidence still needed before the next stage.
 
+[How I review products](https://github.com/Kbartawi/Kbartawi.github.io/blob/main/PRODUCT-STANDARD.md): workflow tests, customer evidence, relevant alternatives and a clear next milestone.
+
 Take a closer look: [Frame’s creator studio](https://kbartawi.github.io/projects/frame/#gallery-product) · [Oris’s support workspace](https://kbartawi.github.io/projects/oris/#gallery-product) · [Manzl’s leasing dashboard](https://kbartawi.github.io/projects/manzl/#gallery-product) · [Dubai Game’s world studies](https://kbartawi.github.io/projects/dubai-game/#gallery). Actual product screens come first; website captures and cinematic concepts follow. Quote Operations and Aqd also include their real demo interfaces.
 
 Updated 17 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. Frame’s product screenshots show its hosted sample; its coastal film stills are separate concepts, not completed Frame productions.
