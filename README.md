@@ -20,7 +20,7 @@ I build AI software for customer operations and video production. Based in Dubai
 | [Frame](https://kbartawi.github.io/projects/frame/) | Video creation for beginners from photos, clips or an idea | Prototype · In testing |
 | [Dubai Game](https://kbartawi.github.io/projects/dubai-game/) | A Dubai-set game in preproduction, with concept art and prototype systems | Concept · Art review |
 
-Frame V2 is in development: the local AI pipeline completed a film, but its creative and voice quality need improvement. The native iPhone editor now compiles and passes six Simulator tests, with photo import, local export and gallery save checked through the UI. Real-device acceptance is pending; no TestFlight build has been released.
+Frame V2 is in development: the local AI pipeline completed a film, but its creative and voice quality need improvement. The native iPhone editor now compiles and passes six Simulator tests, with photo import, local export and gallery save checked through the UI. OpenAI voice previews are connected; creative auditions and real-device acceptance are pending. No TestFlight build has been released.
 
 My product work focuses on specific workflows: customer support, equipment quotations, leasing and video production. Each product has a defined development stage and next validation milestone. Dubai Game is exploratory work in preproduction.
 
