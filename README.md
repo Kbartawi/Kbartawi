@@ -24,6 +24,6 @@ I bring a builder’s curiosity and a pilot’s discipline: clear systems, caref
 
 Every project page includes an image gallery, its audience, workflow, technical and commercial readiness, and the next milestone. Demo access, a prototype and a customer-ready product are different stages; the portfolio makes those distinctions visible.
 
-Take a closer look: [Frame’s cinematic gallery — 7 shots](https://kbartawi.github.io/projects/frame/#gallery) · [Dubai Game’s world studies — 8 scenes](https://kbartawi.github.io/projects/dubai-game/#gallery). The four business projects also include product, demo or website screenshots.
+Take a closer look: [Frame’s creator studio](https://kbartawi.github.io/projects/frame/#gallery-product) · [Oris’s support workspace](https://kbartawi.github.io/projects/oris/#gallery-product) · [Manzl’s leasing dashboard](https://kbartawi.github.io/projects/manzl/#gallery-product) · [Dubai Game’s world studies](https://kbartawi.github.io/projects/dubai-game/#gallery). Actual product screens come first; website captures and cinematic concepts follow. Quote Operations and Aqd also include their real demo interfaces.
 
-Updated 17 September 2026. Product samples use fictional data. Dubai Game imagery is visual development, not gameplay. Frame’s studio illustration and film stills are concepts, not proof of a completed production.
+Updated 17 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. Frame’s product screenshots show its hosted sample; its coastal film stills are separate concepts, not completed Frame productions.
