@@ -17,10 +17,10 @@ I build AI software for customer operations and video production. Based in Dubai
 | [Oris](https://kbartawi.github.io/projects/oris/) | Arabic and English customer support with business context and human handoff | Pilot validation |
 | [Manzl](https://kbartawi.github.io/projects/manzl/) | Leasing enquiries into qualified briefs and viewing handoffs | Working prototype |
 | [Aqd](https://kbartawi.github.io/projects/aqd/) | Tenancy details, documents and cheque schedules in one preparation pack | Browser-based demo |
-| [Frame](https://kbartawi.github.io/projects/frame/) | Video creation for beginners from photos, clips or an idea | Prototype · In testing |
+| [Frame](https://kbartawi.github.io/projects/frame/) | Video creation for beginners from photos, clips or an idea | Prototype · Internal iPhone beta |
 | [Dubai Game](https://kbartawi.github.io/projects/dubai-game/) | A Dubai-set game in preproduction, with concept art and prototype systems | Concept · Art review |
 
-Frame V2 now builds an unsigned iPhone Release archive, version 2.0.0 (1). Signing and upload await my Apple Account sign-in in Xcode; no TestFlight build is released. The offline native editor supports drafts, gallery recovery and safer import, export and voice saving, with 44 Simulator tests. It has no Frame login or AI provider integration. The earlier import/title/resume/export/gallery flow was checked through the UI; the latest controls and physical-device acceptance remain open. The separate web studio offers lower-cost Kling and Seedance with 174 mocked tests. AI output quality remains under review.
+Frame 2.0.0 (1) is now available for my internal TestFlight testing as “Frame: Photos to Reels”; the app itself is named Frame. The signed build was uploaded and processed by Apple, and the owner invitation was issued. Real iPhone installation and acceptance remain unverified; there is no external/public beta or App Store release. The offline editor supports drafts, gallery recovery and safer import, export and voice saving, with 44 Simulator tests. It has no Frame login or cloud AI integration. The separate web studio offers lower-cost Kling and Seedance with 174 mocked tests. AI output quality remains under review.
 
 My product work focuses on specific workflows: customer support, equipment quotations, leasing and video production. Each product has a defined development stage and next validation milestone. Dubai Game is exploratory work in preproduction.
 
