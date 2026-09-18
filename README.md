@@ -20,7 +20,7 @@ I build AI software for customer operations and video production. Based in Dubai
 | [Frame](https://kbartawi.github.io/projects/frame/) | Video creation for beginners from photos, clips or an idea | Prototype · In testing |
 | [Dubai Game](https://kbartawi.github.io/projects/dubai-game/) | A Dubai-set game in preproduction, with concept art and prototype systems | Concept · Art review |
 
-Frame V2 is in development: the native iPhone editor now keeps resumable drafts and passes 12 Simulator tests, with photo import, typed title, leave/resume, local export and gallery save checked through the UI. The web studio offers lower-cost Kling and Seedance with clear estimates and spending protection; 174 mocked tests pass. AI output quality still needs acceptance, and real-device checks and TestFlight release remain pending.
+Frame V2 is in development: the native iPhone editor now keeps drafts, supports gallery renaming and recoverable removal, and protects background voice saving. Twenty Simulator tests pass. The earlier import/title/resume/export/gallery flow was checked through the UI; the latest controls still need visual and real-device acceptance. The web studio offers lower-cost Kling and Seedance with 174 mocked tests. AI output quality and TestFlight release remain pending.
 
 My product work focuses on specific workflows: customer support, equipment quotations, leasing and video production. Each product has a defined development stage and next validation milestone. Dubai Game is exploratory work in preproduction.
 
