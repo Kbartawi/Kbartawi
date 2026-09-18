@@ -1,6 +1,6 @@
-# Khaled · Founder & Former pilot
 
-I build AI software for customer operations and video production. Based in Dubai, with a background in aviation.
+
+
 
 **[Explore my portfolio →](https://kbartawi.github.io/)**
 
