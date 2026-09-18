@@ -1,4 +1,4 @@
-# Khaled · Founder & pilot
+# Khaled · Founder & Former pilot
 
 I build AI software for customer operations and video production. Based in Dubai, with a background in aviation.
 
