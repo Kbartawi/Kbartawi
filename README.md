@@ -19,10 +19,12 @@ Each project page includes its intended users and buyers, product screenshots, t
 
 Take a closer look: [Frame’s development direction](https://kbartawi.github.io/projects/frame/) · [Oris’s support workspace](https://kbartawi.github.io/projects/oris/#gallery-product) · [Manzl’s leasing dashboard](https://kbartawi.github.io/projects/manzl/#gallery-product) · [Dubai Game’s world studies](https://kbartawi.github.io/projects/dubai-game/#gallery). Frame’s page includes three updated references and all 16 original approved concepts, clearly labeled separately from implementation evidence. Physical-device acceptance remains pending. Quote Operations and Aqd also include their real demo interfaces.
 
-Updated 20 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. The earlier Frame video imagery has been removed from the current project page. Build 3.0.0 (10) completed Apple processing and is assigned to the internal Owner Testing group; installation and physical-device acceptance remain unverified.
+Updated 20 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. The earlier Frame video imagery has been removed from the current project page. Build 3.0.0 (12) completed Apple processing and is assigned to the internal Owner Testing group; installation and physical-device acceptance remain unverified.
 
 
-[Watch the actual Frame simulator demo →](https://kbartawi.github.io/projects/frame/#demo) · 84 seconds, silent, fictional test data. Build10 is verified in the internal Owner Testing group. Source-search fallback is shown, not successful AI generation or physical-device acceptance.
+Build 12 adds: source-backed proposed actions, protection when a source changes or becomes private, completion receipts that survive reopening, and ordering by reviewed due date. Its automated suite executed 149 checks: 147 passed and two skipped. A separate live AI test failed; successful generation and a real iPhone voice-to-action loop remain unverified. No cloud AI is connected. The next validation is a supported-device loop followed by a small seven-day voluntary-use pilot.
+
+[Watch the actual Frame simulator demo →](https://kbartawi.github.io/projects/frame/#demo) · 84 seconds, silent, fictional test data. The video shows build 10; the current verified internal release is build 12. Source-search fallback is shown, not successful AI generation or physical-device acceptance.
 
 ### Frame design gallery
 
