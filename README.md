@@ -17,16 +17,30 @@ Each project page includes its intended users and buyers, product screenshots, t
 
 [How I review products](https://github.com/Kbartawi/Kbartawi.github.io/blob/main/PRODUCT-STANDARD.md): workflow tests, customer evidence, relevant alternatives and a clear next milestone.
 
-Take a closer look: [Frame’s development direction](https://kbartawi.github.io/projects/frame/) · [Oris’s support workspace](https://kbartawi.github.io/projects/oris/#gallery-product) · [Manzl’s leasing dashboard](https://kbartawi.github.io/projects/manzl/#gallery-product) · [Dubai Game’s world studies](https://kbartawi.github.io/projects/dubai-game/#gallery). Frame’s page includes all 16 approved design concepts, clearly labeled separately from implementation evidence. Physical-device acceptance remains pending. Quote Operations and Aqd also include their real demo interfaces.
+Take a closer look: [Frame’s development direction](https://kbartawi.github.io/projects/frame/) · [Oris’s support workspace](https://kbartawi.github.io/projects/oris/#gallery-product) · [Manzl’s leasing dashboard](https://kbartawi.github.io/projects/manzl/#gallery-product) · [Dubai Game’s world studies](https://kbartawi.github.io/projects/dubai-game/#gallery). Frame’s page includes two updated references and all 16 original approved concepts, clearly labeled separately from implementation evidence. Physical-device acceptance remains pending. Quote Operations and Aqd also include their real demo interfaces.
 
 Updated 20 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. The earlier Frame video imagery has been removed from the current project page. Build 3.0.0 (8) completed Apple processing and is assigned to the internal Owner Testing group; installation and physical-device acceptance remain unverified.
 
 
 ### Frame design gallery
 
-[Explore all 16 Frame screens on mobile →](https://kbartawi.github.io/projects/frame/#gallery)
+[Explore all 18 Frame reference images on mobile →](https://kbartawi.github.io/projects/frame/#gallery)
 
 Generated v8 design concepts with fictional example data, not running-app screenshots. Some pictured features remain proposed.
+
+**Updated references · v9**
+
+**One thing for now · proposed focus loop**
+
+Proposed visual direction for choosing one commitment, marking it done and setting an optional reminder. The layout is more polished than the current minimal focus implementation; reminder layout is not an exact app screenshot.
+
+[![One thing for now · proposed focus loop](https://kbartawi.github.io/media/frame/concepts/v9/focus-loop-proposal.jpg)](https://kbartawi.github.io/media/frame/concepts/v9/focus-loop-proposal.png)
+
+**Your data · corrected privacy reference**
+
+Updated reference reflecting local storage, eligible on-device Apple AI, private-note exclusion and text/task export. This is a generated design reference, not a running-app screenshot.
+
+[![Your data · corrected privacy reference](https://kbartawi.github.io/media/frame/concepts/v9/privacy-corrected.jpg)](https://kbartawi.github.io/media/frame/concepts/v9/privacy-corrected.png)
 
 <details>
 <summary>Show all 16 original Frame design screens</summary>
