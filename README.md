@@ -19,10 +19,10 @@ Each project page includes its intended users and buyers, product screenshots, t
 
 Take a closer look: [Frame’s development direction](https://kbartawi.github.io/projects/frame/) · [Oris’s support workspace](https://kbartawi.github.io/projects/oris/#gallery-product) · [Manzl’s leasing dashboard](https://kbartawi.github.io/projects/manzl/#gallery-product) · [Dubai Game’s world studies](https://kbartawi.github.io/projects/dubai-game/#gallery). Frame’s page includes three updated references and all 16 original approved concepts, clearly labeled separately from implementation evidence. Physical-device acceptance remains pending. Quote Operations and Aqd also include their real demo interfaces.
 
-Updated 20 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. The earlier Frame video imagery has been removed from the current project page. Build 3.0.0 (9) completed Apple processing and is assigned to the internal Owner Testing group; installation and physical-device acceptance remain unverified.
+Updated 20 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. The earlier Frame video imagery has been removed from the current project page. Build 3.0.0 (10) completed Apple processing and is assigned to the internal Owner Testing group; installation and physical-device acceptance remain unverified.
 
 
-[Watch the actual Frame simulator demo →](https://kbartawi.github.io/projects/frame/#demo) · 84 seconds, silent, fictional test data. Build10 candidate; build9 remains the verified internal release. Source-search fallback is shown, not successful AI generation or physical-device acceptance.
+[Watch the actual Frame simulator demo →](https://kbartawi.github.io/projects/frame/#demo) · 84 seconds, silent, fictional test data. Build10 is verified in the internal Owner Testing group. Source-search fallback is shown, not successful AI generation or physical-device acceptance.
 
 ### Frame design gallery
 
