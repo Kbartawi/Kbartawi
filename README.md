@@ -9,7 +9,7 @@
 | [Frame](https://kbartawi.github.io/projects/frame/) | Voice notes, source-linked memory and reviewed next steps | Internal iPhone beta · Device acceptance pending |
 | [Dubai Game](https://kbartawi.github.io/projects/dubai-game/) | A Dubai-set game in preproduction, with concept art and prototype systems | Concept · Art review |
 
-Frame is a personal voice workspace: capture thoughts locally, find the original context behind a note, and turn reviewed next steps into tasks or follow-up drafts. You choose what to share, keep private, remember or add through Apple’s Calendar editor. Optional AI uses Apple’s on-device model on eligible devices with iOS 26.4 or later. The internal beta is under device verification; real-device recording, AI quality and mixed Arabic–English accuracy remain unverified.
+Frame is a personal voice workspace: capture thoughts locally, find the original context behind a note, and turn reviewed next steps into tasks or follow-up drafts. You choose what to share, keep private, remember or add through Apple’s Calendar editor. Optional Apple on-device AI support is being tested on eligible devices with iOS 26.4 or later; successful generation remains unverified. The internal beta is under device verification; real-device recording, AI quality and mixed Arabic–English accuracy remain unverified.
 
 My product work focuses on specific workflows: customer support, equipment quotations, leasing and personal workflows. Each product has a defined development stage and next validation milestone. Dubai Game is exploratory work in preproduction.
 
@@ -77,7 +77,7 @@ Record deliberately and ask for context.
 
 **06 · Live answer**
 
-A concise answer linked to the original source.
+Proposed current-conversation coaching linked to an original source. This live coaching flow is not built; current Ask searches saved notes.
 
 [![Frame Live answer design concept](https://kbartawi.github.io/media/frame/concepts/v8/06-live-answer.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/06-live-answer.png)
 
