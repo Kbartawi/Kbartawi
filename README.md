@@ -25,6 +25,8 @@ Updated 20 September 2026. Product screenshots use fictional demo data; Oris and
 Build 14 improves microphone-permission recovery, explains recording blockers, offers a written-note fallback and restores explicit local AI draft retry. Native checks: 183 executed, 180 passed, three skipped, zero failures. Cloud AI is disabled in Release. Successful generation and the reported physical-iPhone recording root cause/resolution remain unverified.
 
 
+Known build14 issue: a fresh-install microphone permission prompt can be followed by an immediate pause at zero seconds. Tap Resume to continue. Reproduced in the simulator; a fix is in progress, and the physical-phone cause remains unconfirmed. Build14 remains the delivered internal release.
+
 [Watch the latest Frame local workflow demo →](https://kbartawi.github.io/projects/frame/#demo) · 78 seconds, silent, fictional test data. Development build13 shows task editing, source review, completion receipts and an audio-only warning. It is not proof of AI generation. Build 3.0.0 (14) is now the latest verified internal TestFlight release; the video remains a development recording. [Earlier build10 demo](https://kbartawi.github.io/media/frame/actual/build10/actual-build10-demo.mp4) remains available.
 
 ### Frame design gallery
