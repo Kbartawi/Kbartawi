@@ -24,7 +24,7 @@ Updated 20 September 2026. Product screenshots use fictional demo data; Oris and
 
 Build 12 adds: source-backed proposed actions, protection when a source changes or becomes private, completion receipts that survive reopening, and ordering by reviewed due date. Its automated suite executed 149 checks: 147 passed and two skipped. A separate live AI test failed; successful generation and a real iPhone voice-to-action loop remain unverified. No cloud AI is connected. The next validation is a supported-device loop followed by a small seven-day voluntary-use pilot.
 
-[Watch the actual Frame simulator demo →](https://kbartawi.github.io/projects/frame/#demo) · 84 seconds, silent, fictional test data. The video shows build 10; the current verified internal release is build 12. Source-search fallback is shown, not successful AI generation or physical-device acceptance.
+[Watch the latest Frame local workflow demo →](https://kbartawi.github.io/projects/frame/#demo) · 78 seconds, silent, fictional test data. Development build13 shows task editing, source review, completion receipts and an audio-only warning. It is not proof of AI generation. Build13 is not delivered; build12 remains the latest verified internal release. [Earlier build10 demo](https://kbartawi.github.io/media/frame/actual/build10/actual-build10-demo.mp4) remains available.
 
 ### Frame design gallery
 
