@@ -1,3 +1,5 @@
+Frame status update —29September2026: Build16 is verified in internal Owner Testing as of29September2026. Candidate17 adds spoken task planning, optional Google/iPhone Calendar connections, availability checks and verified work-block receipts. The iPhone Calendar simulator save/read-back and Google sign-in launch were exercised. Authenticated Google actions and successful physical-phone voice-to-action remain unverified; candidate17 has not been delivered. Cloud AI remains disabled in Release.
+
 **[Explore my portfolio →](https://kbartawi.github.io/)**
 
 | Project | What it does | Current stage |
@@ -27,7 +29,9 @@ Build 3.0.0 (15) completed Apple processing, has saved What to Test instructions
 
 Build14 had an immediate zero-second pause after first microphone permission. Build15 fixes that defect in a fresh-install simulator workflow; this is not a physical-phone guarantee. Update the existing app through TestFlight without deleting the app or saved data. [Watch the actual microphone-permission QA video](https://kbartawi.github.io/projects/frame/#permission-demo):114seconds, silent development build15, not successful AI proof.
 
-[Watch the latest Frame local workflow demo →](https://kbartawi.github.io/projects/frame/#demo) · 78 seconds, silent, fictional test data. Development build13 shows task editing, source review, completion receipts and an audio-only warning. It is not proof of AI generation. Build 3.0.0 (15) is now the latest verified internal TestFlight release; the video remains a development recording. [Earlier build10 demo](https://kbartawi.github.io/media/frame/actual/build10/actual-build10-demo.mp4) remains available.
+[Watch the latest Frame local workflow demo →](https://kbartawi.github.io/projects/frame/#demo) · 78 seconds, silent, fictional test data. Development build13 shows task editing, source review, completion receipts and an audio-only warning. It is not proof of AI generation. Build3.0.0(16) is the latest verified internal TestFlight release; the video remains a development recording. [Earlier build10 demo](https://kbartawi.github.io/media/frame/actual/build10/actual-build10-demo.mp4) remains available.
+
+Build16 quick capture is verified assigned to internal Owner Testing on29September2026. Explicit onboarding asks for microphone access before opening capture, without starting recording. Static Home/Lock widgets and an iOS18+ control open Frame; unlock if asked, then tap Start. Widgets show no note content and do not record or run AI. Audio-only notes offer writing instead of unusable generation. Actual allow/deny and widget/control launch acceptance are pending. Build16 is the latest verified internal TestFlight release; AI quality and product-market fit remain unproven.
 
 ### Frame design gallery
 
@@ -114,7 +118,7 @@ An editable follow-up, ready for your review.
 
 **10 · Plan**
 
-Preview the time and calendar before adding anything. Concept only: calendar availability checking is not implemented.
+Preview the time and calendar before adding anything. Historical design concept. Candidate17 implements availability checks; authenticated Google and physical-device acceptance remain pending.
 
 [![Frame Plan design concept](https://kbartawi.github.io/media/frame/concepts/v8/10-plan.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/10-plan.png)
 
