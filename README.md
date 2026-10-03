@@ -1,4 +1,4 @@
-Frame status update —29September2026: Build 3.0.0 (21) is installed on the actual iPhone through internal TestFlight. A saved synthetic conversation produced a corrected five-section proposal and follow-up draft; saved content, original-source review and old-version sharing protection were verified. The prior typed request to a real Calendar event remains verified. Native checks: 222 total, 219 passed, three explicit skips, zero failures. The physical PDF was saved and independently opened in Preview. An approved fictional self-test email with the PDF reached Mail’s queued result; Frame retained both receipts. Inbox delivery is not confirmed. Public App Store submission, voice-to-calendar, general AI quality and authenticated Google actions remain unverified. Cloud AI stays disabled in Release.
+Frame is a private personal planner: capture → review → plan → complete. Full-PRD readiness is 71%. Build 33 is verified Testing in the existing private Owner Testing group. Build 34 passed 118 native tests with zero failures and compiled a Release archive containing required privacy declarations; upload awaits renewed Apple signing credentials. Phone voice/AI, live Calendar/Reminders, full accessibility, widgets and sync remain incomplete.
 
 **[Explore my portfolio →](https://kbartawi.github.io/)**
 
@@ -8,36 +8,22 @@ Frame status update —29September2026: Build 3.0.0 (21) is installed on the act
 | [Oris](https://kbartawi.github.io/projects/oris/) | Arabic and English customer support with business context and human handoff | Pilot validation |
 | [Manzl](https://kbartawi.github.io/projects/manzl/) | Leasing enquiries into qualified briefs and viewing handoffs | Working prototype |
 | [Aqd](https://kbartawi.github.io/projects/aqd/) | Tenancy details, documents and cheque schedules in one preparation pack | Browser-based demo |
-| [Frame](https://kbartawi.github.io/projects/frame/) | Voice notes, source-linked memory and reviewed next steps | Internal iPhone beta · Device acceptance pending |
+| [Frame](https://kbartawi.github.io/projects/frame/) | A realistic day plan, tasks, prayers, routines, notes and reversible checklists | Private personal-use pilot · 71% full PRD |
 | [Dubai Game](https://kbartawi.github.io/projects/dubai-game/) | A Dubai-set game in preproduction, with concept art and prototype systems | Concept · Art review |
 
-Frame is a personal voice workspace: capture thoughts locally, find the original context behind a note, and turn reviewed next steps into tasks or follow-up drafts. You choose what to share, keep private, remember or add through Apple’s Calendar editor. Optional Apple on-device AI support is being tested on eligible devices with iOS 26.4 or later; successful generation remains unverified. The internal beta is under device verification; real-device recording, AI quality and mixed Arabic–English accuracy remain unverified.
+Frame is a private personal productivity workspace for its owner and close friends. Title-only tasks, reviewed text capture, planning and shared completion connect to notes, files, goals, habits, routines, prayers and travel packing. Protected local storage and portable attachment backup are implemented. Phone voice/AI, live Calendar/Reminders and full accessibility remain under verification. Optional generated AI requires iOS 27 and eligible, ready Apple Intelligence in this build. No cloud provider, sync, widgets or public paid plan is connected.
 
-My product work focuses on specific workflows: customer support, equipment quotations, leasing and personal workflows. Each product has a defined development stage and next validation milestone. Dubai Game is exploratory work in preproduction.
+My product work focuses on customer support, equipment quotations, leasing and personal workflows. Each product has a defined stage and next validation milestone. Dubai Game is exploratory work in preproduction.
 
-Each project page includes its intended users and buyers, product screenshots, technical and commercial readiness, and the evidence still needed before the next stage.
+[How I review products](https://github.com/Kbartawi/Kbartawi.github.io/blob/main/PRODUCT-STANDARD.md) · [Current Frame planner screens](https://kbartawi.github.io/projects/frame/#gallery) · [Frame privacy](https://kbartawi.github.io/projects/frame/privacy/) · [Beta support](https://kbartawi.github.io/projects/frame/support/)
 
-[How I review products](https://github.com/Kbartawi/Kbartawi.github.io/blob/main/PRODUCT-STANDARD.md): workflow tests, customer evidence, relevant alternatives and a clear next milestone.
+Updated 3 October 2026. Current Frame screenshots use simulator test data. The retained [older local workflow video](https://kbartawi.github.io/projects/frame/#demo) and [microphone-permission video](https://kbartawi.github.io/projects/frame/#permission-demo) are historical voice-memory evidence, not current planner phone acceptance. Earlier build10 media remain archived. No public release or physical installation of the final planner build is claimed.
 
-Take a closer look: [Frame’s development direction](https://kbartawi.github.io/projects/frame/) · [Oris’s support workspace](https://kbartawi.github.io/projects/oris/#gallery-product) · [Manzl’s leasing dashboard](https://kbartawi.github.io/projects/manzl/#gallery-product) · [Dubai Game’s world studies](https://kbartawi.github.io/projects/dubai-game/#gallery). Frame’s page includes three updated references and all 16 original approved concepts, clearly labeled separately from implementation evidence. Physical-device acceptance remains pending. Quote Operations and Aqd also include their real demo interfaces.
-
-Updated 20 September 2026. Product screenshots use fictional demo data; Oris and Manzl are local UI demos. Dubai Game imagery is visual development, not gameplay. The earlier Frame video imagery has been removed from the current project page. Build 3.0.0 (15) completed Apple processing, has saved What to Test instructions and is assigned to Owner Testing (Internal, one tester); installation and physical-device acceptance remain unverified.
-
-
-Build 3.0.0 (15) completed Apple processing, has saved What to Test instructions and is assigned to Owner Testing (Internal, one tester), verified20:02Dubai. It fixes the first-microphone permission immediate-pause defect demonstrated in simulator QA. Final native checks:187executed,184passed,three skipped,zero failures. Actual background still pauses; resuming requires an explicit tap. Successful AI, acoustic quality and physical-phone acceptance remain unverified. Cloud AI is disabled in Release.
-
-
-Build14 had an immediate zero-second pause after first microphone permission. Build15 fixes that defect in a fresh-install simulator workflow; this is not a physical-phone guarantee. Update the existing app through TestFlight without deleting the app or saved data. [Watch the actual microphone-permission QA video](https://kbartawi.github.io/projects/frame/#permission-demo):114seconds, silent development build15, not successful AI proof.
-
-[Watch the latest Frame local workflow demo →](https://kbartawi.github.io/projects/frame/#demo) · 78 seconds, silent, fictional test data. Development build13 shows task editing, source review, completion receipts and an audio-only warning. It is not proof of AI generation. Build3.0.0(18) is the latest verified internal TestFlight release; the video remains a development recording. [Earlier build10 demo](https://kbartawi.github.io/media/frame/actual/build10/actual-build10-demo.mp4) remains available.
-
-Build16 quick capture is verified assigned to internal Owner Testing on29September2026. Explicit onboarding asks for microphone access before opening capture, without starting recording. Static Home/Lock widgets and an iOS18+ control open Frame; unlock if asked, then tap Start. Widgets show no note content and do not record or run AI. Audio-only notes offer writing instead of unusable generation. Actual allow/deny and widget/control launch acceptance are pending. Build21 is the latest verified internal TestFlight release; AI quality and product-market fit remain unproven.
-
-### Frame design gallery
+### Historical Frame design gallery
 
 [Explore Frame references and actual simulator evidence on mobile →](https://kbartawi.github.io/projects/frame/#gallery)
 
-Generated v8 design concepts with fictional example data, not running-app screenshots. Some pictured features remain proposed.
+The following images describe the earlier voice-memory direction. They use fictional data and are historical concepts, not current personal-planner screenshots or feature promises.
 
 **Usefulness flow · v10 reference**
 
@@ -118,7 +104,7 @@ An editable follow-up, ready for your review.
 
 **10 · Plan**
 
-Preview the time and calendar before adding anything. Historical design concept. Candidate17 implements availability checks; authenticated Google and physical-device acceptance remain pending.
+Preview the time and calendar before adding anything. Historical design concept. That earlier candidate implemented availability checks; it is not the current planner’s delivery evidence.
 
 [![Frame Plan design concept](https://kbartawi.github.io/media/frame/concepts/v8/10-plan.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/10-plan.png)
 
