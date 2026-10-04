@@ -17,131 +17,22 @@ My product work focuses on customer support, equipment quotations, leasing and p
 
 [How I review products](https://github.com/Kbartawi/Kbartawi.github.io/blob/main/PRODUCT-STANDARD.md) · [Current Frame planner screens](https://kbartawi.github.io/projects/frame/#gallery) · [Frame privacy](https://kbartawi.github.io/projects/frame/privacy/) · [Beta support](https://kbartawi.github.io/projects/frame/support/)
 
-Updated 3 October 2026. Current Frame screenshots use simulator test data. The retained [older local workflow video](https://kbartawi.github.io/projects/frame/#demo) and [microphone-permission video](https://kbartawi.github.io/projects/frame/#permission-demo) are historical voice-memory evidence, not current planner phone acceptance. Earlier build10 media remain archived. No public release or physical installation of the final planner build is claimed.
+Updated 4 October 2026. Frame 4.0.0 (42) is available in private TestFlight; 305 native tests passed. Full-PRD readiness is 75%. Further TestFlight uploads are held until 100% readiness is supported by completed acceptance checks.
 
-### Historical Frame design gallery
+### Frame product screens
 
-[Explore Frame references and actual simulator evidence on mobile →](https://kbartawi.github.io/projects/frame/#gallery)
+Actual build 33 simulator captures from the current personal planner, using development test data. These are earlier interface images; they do not establish build 42 phone acceptance.
 
-The following images describe the earlier voice-memory direction. They use fictional data and are historical concepts, not current personal-planner screenshots or feature promises.
+**Today · your next step**
 
-**Usefulness flow · v10 reference**
+[![Frame Today screen](https://kbartawi.github.io/media/frame/actual/planner33/Frame33-Today.png)](https://kbartawi.github.io/projects/frame/#gallery)
 
-Generated reference, fictional data, not an app screenshot. Owner: You does not imply assigning tasks to others.
+**Find your saved information**
 
-[![Frame usefulness flow reference](https://kbartawi.github.io/media/frame/concepts/v10/usefulness-flow-reference.jpg)](https://kbartawi.github.io/media/frame/concepts/v10/usefulness-flow-reference.png)
+[![Frame saved information search](https://kbartawi.github.io/media/frame/actual/planner33/Frame33-Search.png)](https://kbartawi.github.io/projects/frame/#gallery)
 
-**Updated references · v9**
+**Ask Frame**
 
-**One thing for now · proposed focus loop**
+[![Frame assistant](https://kbartawi.github.io/media/frame/actual/planner33/Frame33-Assistant.png)](https://kbartawi.github.io/projects/frame/#gallery)
 
-Proposed visual direction for choosing one commitment, marking it done and setting an optional reminder. The layout is more polished than the current minimal focus implementation; reminder layout is not an exact app screenshot.
-
-[![One thing for now · proposed focus loop](https://kbartawi.github.io/media/frame/concepts/v9/focus-loop-proposal.jpg)](https://kbartawi.github.io/media/frame/concepts/v9/focus-loop-proposal.png)
-
-**Your data · corrected privacy reference**
-
-Updated reference reflecting local storage, eligible on-device Apple AI, private-note exclusion and text/task export. This is a generated design reference, not a running-app screenshot.
-
-[![Your data · corrected privacy reference](https://kbartawi.github.io/media/frame/concepts/v9/privacy-corrected.jpg)](https://kbartawi.github.io/media/frame/concepts/v9/privacy-corrected.png)
-
-<details>
-<summary>Show all 16 original Frame design screens</summary>
-
-**01 · Welcome**
-
-Start with a voice note or explore an example.
-
-[![Frame Welcome design concept](https://kbartawi.github.io/media/frame/concepts/v8/01-welcome.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/01-welcome.png)
-
-**02 · Today**
-
-One useful prompt, with capture always close.
-
-[![Frame Today design concept](https://kbartawi.github.io/media/frame/concepts/v8/02-today.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/02-today.png)
-
-**03 · Capture setup**
-
-Choose a personal note or a conversation.
-
-[![Frame Capture setup design concept](https://kbartawi.github.io/media/frame/concepts/v8/03-capture-setup.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/03-capture-setup.png)
-
-**04 · Solo recording**
-
-Speak freely, with honest recording controls.
-
-[![Frame Solo recording design concept](https://kbartawi.github.io/media/frame/concepts/v8/04-solo-recording.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/04-solo-recording.png)
-
-**05 · Conversation**
-
-Record deliberately and ask for context.
-
-[![Frame Conversation design concept](https://kbartawi.github.io/media/frame/concepts/v8/05-conversation.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/05-conversation.png)
-
-**06 · Live answer**
-
-Proposed current-conversation coaching linked to an original source. This live coaching flow is not built; current Ask searches saved notes.
-
-[![Frame Live answer design concept](https://kbartawi.github.io/media/frame/concepts/v8/06-live-answer.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/06-live-answer.png)
-
-**07 · Paused**
-
-See what was saved and choose how to continue.
-
-[![Frame Paused design concept](https://kbartawi.github.io/media/frame/concepts/v8/07-paused.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/07-paused.png)
-
-**08 · Understanding**
-
-Correct the summary and review suggested commitments.
-
-[![Frame Understanding design concept](https://kbartawi.github.io/media/frame/concepts/v8/08-understanding.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/08-understanding.png)
-
-**09 · Draft**
-
-An editable follow-up, ready for your review.
-
-[![Frame Draft design concept](https://kbartawi.github.io/media/frame/concepts/v8/09-draft.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/09-draft.png)
-
-**10 · Plan**
-
-Preview the time and calendar before adding anything. Historical design concept. That earlier candidate implemented availability checks; it is not the current planner’s delivery evidence.
-
-[![Frame Plan design concept](https://kbartawi.github.io/media/frame/concepts/v8/10-plan.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/10-plan.png)
-
-**11 · Receipt**
-
-A clear record of what happened and what remains. Concept only: View event and Undo are not implemented.
-
-[![Frame Receipt design concept](https://kbartawi.github.io/media/frame/concepts/v8/11-receipt.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/11-receipt.png)
-
-**12 · Memory**
-
-Find notes and ask questions without filing everything.
-
-[![Frame Memory design concept](https://kbartawi.github.io/media/frame/concepts/v8/12-memory.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/12-memory.png)
-
-**13 · Project**
-
-See decisions, commitments and the story so far.
-
-[![Frame Project design concept](https://kbartawi.github.io/media/frame/concepts/v8/13-project.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/13-project.png)
-
-**14 · Memory answer**
-
-An answer you can trace back to your notes.
-
-[![Frame Memory answer design concept](https://kbartawi.github.io/media/frame/concepts/v8/14-memory-answer.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/14-memory-answer.png)
-
-**15 · Source**
-
-Review the recording, transcript and cleaned summary.
-
-[![Frame Source design concept](https://kbartawi.github.io/media/frame/concepts/v8/15-source.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/15-source.png)
-
-**16 · Privacy**
-
-Understand processing, retention and your choices. Historical concept only: this cloud-AI toggle, 30-day retention and account deletion do not describe the current on-device assistant.
-
-[![Frame Privacy design concept](https://kbartawi.github.io/media/frame/concepts/v8/16-privacy.jpg)](https://kbartawi.github.io/media/frame/concepts/v8/16-privacy.png)
-
-</details>
+The assistant image shows a response generated in an eligible simulator. General AI quality, actual phone generation and voice acceptance remain open.
